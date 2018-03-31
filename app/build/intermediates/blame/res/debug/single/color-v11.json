@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

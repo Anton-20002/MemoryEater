@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\Downloads\\Lynda - Android Studio Essential Training\\Exercise Files\\Ch06\\06_08\\MemoryEater\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Anton\\.android\\build-cache\\a6b651e88d8ab01c2e1e1ce3df5a12050a24adfe\\output\\res\\color\\switch_thumb_material_light.xml"
+    }
+]
